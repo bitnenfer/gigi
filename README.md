@@ -4,6 +4,8 @@ Gigi is software designed for rapid prototyping and rapid development of real ti
 
 The goal is to allow work at the speed of thought, and then easily use what was created in real applications using various APIs or engines.
 
+[Hear what people say about using Gigi](readme/testimonials.md)
+
 Gigi is made of three components:
 
 1. Editor - Author a rendering technique
@@ -40,6 +42,8 @@ Introductory Gigi Tutorial: Make a box blur post processing effect.
 
 [Discord: Gigi Rapid Graphics Development](https://discord.gg/HPzqAw2H3k)
 
+[Gigi Jam 2024 Lightning Talks (YouTube)](https://www.youtube.com/watch?v=m62ePwK33PM)
+
 The **Techniques/** folder of the repo contains some examples to help get you started.  The **Techniques/UnitTests/** folder contains the unit tests, which aims to exercise every possible piece of functionality.
 
 There are also documents in the **UserDocumentation** folder that explain the viewer python interface, Gigi shader tokens, and other things.
@@ -59,6 +63,8 @@ If you could also let us know the urgency of the bug or missing feature on your 
 Created by Alan Wolfe
 
 **Contributors:**
+
+Alexey Gladkov
 
 Berk Emre Saribas
 
